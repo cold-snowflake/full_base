@@ -1,0 +1,18 @@
+.header {
+    background-color: cornflowerblue;
+    text-align: center;
+  }
+  .about-me {
+    font-size: 20px;
+    opacity: 0.5;
+  }
+  .title {
+    font-weight: bold;
+  }
+  h1 {
+    color: azure;
+  }
+  body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url('https://4.bp.blogspot.com/-N03hNS_NSfw/UfdCHqjNIPI/AAAAAAAABnM/LQLX-uzRYCo/s320/beautiful-ocean-beautiful-pictures-27115521-1920-1200.jpg');
+  }
